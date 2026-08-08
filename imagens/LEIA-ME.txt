@@ -1,0 +1,5 @@
+Coloque aqui suas três imagens:
+fundo-login.jpg = tela de senha (igual para os dois)
+fundo-dela.jpg = área dela
+fundo-meu.jpg = sua área
+Se usar PNG, altere os nomes no config.js.
